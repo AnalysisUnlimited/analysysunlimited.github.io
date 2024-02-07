@@ -1,3 +1,7 @@
+---
+title: Resume
+layout: page
+---
 ## RESUME
 
 ### Trish Urdzik
