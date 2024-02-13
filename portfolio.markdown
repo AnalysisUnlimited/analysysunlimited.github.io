@@ -16,7 +16,7 @@ Fortune 500 stuff
 
 ARMR shit
 
-![arm straps of harness](/assets/images/Arm Straps of Harness.jpg)
+<img alt="arms straps" width="200px" src="/assets/images/Arm Straps of Harness.jpg"/>
 
 ### Some other shit here
 
