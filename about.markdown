@@ -4,10 +4,14 @@ title: About
 permalink: /about/
 ---
 
-= PATRICIA STADELMAN URDZIK
+# PATRICIA STADELMAN URDZIK
+
 Boston, MA | 407-902-6890
-[link](mailto:patriciaurdzik@gmail.com) | [LinkedIn](linkedin.com/in/patriciaurdzik/)
+
+[email](mailto:patriciaurdzik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/trishurdzik)
+
 [Month] [Day], 2021
+
 [Company Name]
 
 RE: [Position] 
