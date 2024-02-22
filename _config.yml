@@ -20,6 +20,9 @@
 
 title: Patricia Urdzik | UX Researcher
 email: info@trishurdzik.com
+gmail: patriciaurdik@gmail.com
+linkedin: https://www.linkedin.com/in/trishurdzik/
+
 description: >- # this means to ignore newlines until "baseurl:"
   I am one hot ass babe who knows her shit. Don't mess with 
   me unless you have your shit in order! Yeah!
@@ -30,6 +33,21 @@ github_username:  patriciaurdzik
 
 # Build settings
 theme: minima
+
+# Minima specific settings, which are only available from Minima 3.0 onward.
+minima:
+# Minima skin selection.
+# Available skins are:
+# classic	           Default, light color scheme.
+# dark	             Dark variant of the classic skin.
+# auto	             Adaptive skin based on the default classic and dark skins.
+# solarized-light	   Light variant of solarized color scheme.
+# solarized-dark	   Dark variant of solarized color scheme.
+# solarized	         Adaptive skin for solarized color scheme skins.
+  skin: dark
+
+
+
 plugins:
   - jekyll-feed
 

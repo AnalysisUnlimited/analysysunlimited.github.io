@@ -1,14 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
+navbar: true
+dropdown: false
 ---
 
 # PATRICIA STADELMAN URDZIK
 
-Boston, MA | 407-902-6890
-
-[email](mailto:patriciaurdzik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/trishurdzik)
+* Boston, MA \| 407-902-6890
+* [email](mailto:patriciaurdzik@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/trishurdzik)
 
 [Month] [Day], 2021
 
