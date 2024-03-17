@@ -4,7 +4,8 @@ title: Contact
 navbar: true
 ---
 
-Contact form stuff here
-* Name
-* Email
-* Message
+## Some content Here
+
+{% include contact_form.html %} 
+
+### More content Here

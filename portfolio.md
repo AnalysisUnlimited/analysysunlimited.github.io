@@ -5,10 +5,9 @@ navbar: false
 title: Portfolio
 ---
 <article>
-  <h2>EACH PROJECT THING APPEARS HERE</h2>
   {% for project in site.data.portfolio %}
     <h3>
-      {{ project.name }}
+      <a href="{{ project.url | relative_link }}">{{ project.name }}</a>
     </h3>
     <p>
       {{ project.description }}  
