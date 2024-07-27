@@ -60,6 +60,7 @@ plugins:
 exclude:
    - README.md
    - .sass-cache/
+   - .bundle/config
    - .jekyll-cache/
    - gemfiles/
    - Gemfile
