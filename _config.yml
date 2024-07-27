@@ -27,7 +27,7 @@ description: I am a UX Researcher with an MS in Applied Anthropology specializin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: trishurdzik.com  # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  patriciaurdzik
+github_username: patriciaurdzik
 
 # Build settings
 theme: minima

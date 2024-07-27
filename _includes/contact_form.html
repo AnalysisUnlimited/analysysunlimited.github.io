@@ -22,10 +22,30 @@
       <p class="help-block text-danger"></p>
       </div>
   </div>
+
   <div class="row control-group">
-      <div class="form-group col-xs-12 floating-label-form-group controls">
-          <label for="message">Your Questions and Comments</label>
-          <textarea rows="3" name="question" class="form-control" placeholder="Your questions or issues" id="question" required data-validation-required-message="Please enter a question or issue."></textarea>
+    <label for="flexCheckDefault">Preferred Method Of Contact</label>
+    <div class="form-check form-check-inline" style="margin-left: 1em;">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <input class="form-check-input" type="checkbox" value="Email" id="flexCheckDefault">
+            <label class="form-check-label" for="flexCheckDefault">
+            Email
+            </label>
+        </div>
+    </div>
+    <div class="form-check form-check-inline" style="margin-left: 1em;">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <input class="form-check-input" type="checkbox" value="Phone" id="flexCheckChecked">
+            <label class="form-check-label" for="flexCheckChecked">
+            Phone
+            </label>
+        </div>
+    </div>
+  </div>
+  <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls mt-1  ">
+          <label for="message">Tell me a little bit about what you are looking for</label>
+          <textarea rows="3" name="question" class="form-control" placeholder="What you are looking for" id="question" required data-validation-required-message="Please enter a question or issue."></textarea>
           <p class="help-block text-danger"></p>
       </div>
   </div>
@@ -33,11 +53,10 @@
   <div id="success"></div>
   <div class="row">
       <div class="form-group col-xs-12">
-          <button type="submit" class="btn btn-success btn-lg" onclick="submitForm(e)">Send</button>
+          <button type="submit" class="btn btn-success btn-lg" onclick="submitForm(e)">Submit</button>
       </div>
   </div>
 </form>
-
 <script type="text/javascript">
 function submitForm(e) {
   //e.preventDefault;
