@@ -16,19 +16,20 @@
             {%- endif -%}
           {%- endif -%}              
         {%- endfor -%}
-
+        <!--
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Projects
-          </a>
+          </a>        
           <ul class="dropdown-menu">
             {%- for project in site.data.portfolio -%}              
                 {% if project.name %}
                   <li><a class="dropdown-item" href="{{ project.url }}">{{ project.name | escape }}</a></li>
                 {% endif %}          
             {%- endfor -%}            
-          </ul>
+          </ul>          
         </li>
+        -->
       </ul>
     </div>
   </div>
