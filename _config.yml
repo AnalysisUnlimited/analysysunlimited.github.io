@@ -28,6 +28,9 @@ description_old: I am a UX Researcher with an MS in Applied Anthropology special
 baseurl: "" # the subpath of your site, e.g. /blog
 url: trishurdzik.com  # the base hostname & protocol for your site, e.g. http://example.com
 
+show_excerpts: true
+excerpt_separator: <!--excerpt-->
+
 github_username: patriciaurdzik
 
 # Build settings
