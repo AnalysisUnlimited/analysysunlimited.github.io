@@ -24,37 +24,37 @@ First, it’s important to acknowledge your feelings. Understand that it’s nor
 
 Try to see the situation from another perspective. Instead of seeing the client’s decision as a rejection of you or your work, view it as part of the business process where many factors influence decisions. This can help you detach emotionally and see the bigger picture.
 
-**Turn It Around**: Focus on the skill(s) you developed/honed and the knowledge you gained during the project. Every project helps you grow professionally, regardless of the outcome. For example, think about how this project improved your research skills or how you can use the insights you gained in future projects.
+* **Turn It Around**: Focus on the skill(s) you developed/honed and the knowledge you gained during the project. Every project helps you grow professionally, regardless of the outcome. For example, think about how this project improved your research skills or how you can use the insights you gained in future projects.
 
 #### Step 3: Talk to Someone Who Understands
 
 Sharing your feelings with friends, colleagues, or a professional counselor can be very helpful. Talking to others who understand your field can provide comfort and new insights. Don’t be surprised if they also have encountered the same or similar situations. We cannot go it alone and thrive.
 
-**Professional Groups**: Join professional networks or support groups where you can share experiences and get advice. For instance, attending monthly meetups with similar entrepreneurs can provide a platform to discuss challenges and learn from each other’s experiences. Check your local Chamber of Commerce for their meetings or a list of local professional organizations for small businesses. Many groups also meet virtually, making it easier to get the support we need.
+* **Professional Groups**: Join professional networks or support groups where you can share experiences and get advice. For instance, attending monthly meetups with similar entrepreneurs can provide a platform to discuss challenges and learn from each other’s experiences. Check your local Chamber of Commerce for their meetings or a list of local professional organizations for small businesses. Many groups also meet virtually, making it easier to get the support we need.
 
 #### Step 4: Make Sure You Have Realistic Expectations
 
 From the beginning, you make sure to set realistic expectations with your clients. Remind yourself that while you provide recommendations, it’s up to them to decide what to do.
 
-**Review Your Agreements**: Remind yourself that your recommendations are suggestions, not obligations. Remember that most of us include a clause in our contracts that outlines our responsibility to provide informed recommendations and that implementing them is at the client's discretion.
+* **Review Your Agreements**: Remind yourself that your recommendations are suggestions, not obligations. Remember that most of us include a clause in our contracts that outlines our responsibility to provide informed recommendations and that implementing them is at the client's discretion.
 
 #### Step 5: Focus on What You Can Control
 
 Feeling frustrated and angry often comes from a sense of losing control. It’s only natural that you would expect your insights to be recognized and implemented, however, we cannot force our clients to do what research says is best. Focus on what you can control, such as the quality of your work and how you present your recommendations.
 
-**Be Proud of Competent Work Products**: Ensuring that your work is always top-notch will give you a sense of accomplishment and control over your efforts. Things you can control would include, double-checking your reports for accuracy and clarity, making sure your presentations are well-prepared and engaging, etc.
+* **Be Proud of Competent Work Products**: Ensuring that your work is always top-notch will give you a sense of accomplishment and control over your efforts. Things you can control would include, double-checking your reports for accuracy and clarity, making sure your presentations are well-prepared and engaging, etc.
 
 #### Step 6: Be Kind to Yourself
 
 It’s important to practice self-compassion. Understand that frustrations such as these are a part of a consultant’s life and treat yourself kindly during these times. Ask yourself: would you talk to a friend the way you’re talking to yourself? Don’t beat yourself up over things that are out of your control.
 
-**Self-Reflection**: Take time to reflect on what went well and acknowledge the hard work you put in. Using a notepad, Google doc, et., to keep track of your successes, whether personal or professional. This is where you write down your achievements and positive experiences to remind yourself of your strengths and progress when you experience disappointment in the future. It’s especially helpful to keep records of praise you’ve received from various clients.
+* **Self-Reflection**: Take time to reflect on what went well and acknowledge the hard work you put in. Using a notepad, Google doc, et., to keep track of your successes, whether personal or professional. This is where you write down your achievements and positive experiences to remind yourself of your strengths and progress when you experience disappointment in the future. It’s especially helpful to keep records of praise you’ve received from various clients.
 
 #### Step 7: Only Revisit After a Break
 
 Take a break away from the project before revisiting it with the client.
 
-**Feedback**: Ask for feedback to understand the client’s decision better. For example, request a debrief meeting with the client to discuss what they felt worked and what didn’t, and, if applicable, use this information to refine your future strategies.
+* **Feedback**: Ask for feedback to understand the client’s decision better. For example, request a debrief meeting with the client to discuss what they felt worked and what didn’t, and, if applicable, use this information to refine your future strategies.
 
 #### Conclusion
 
